@@ -1010,7 +1010,7 @@ record(bo, "$(P)$(Q):SETAFMODE") {
   field(ONAM, "On")
   field(FLNK, "$(P)$(Q):SETAFMODECMD")
   field(RVAL, "0")
-  field(PINI, "YES")
+  field(PINI, "NO")
 }
 
 # Calls the command itself on the proto file
